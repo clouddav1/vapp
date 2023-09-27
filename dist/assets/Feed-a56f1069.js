@@ -1,0 +1,1 @@
+import{_ as o,o as c,c as s,b as e,a as t}from"./index-4a76a008.js";const n={},a=e("h1",null,[e("br"),t("Feed is only accessible upon log in!")],-1),r=[a];function _(l,d){return c(),s("body",null,r)}const f=o(n,[["render",_]]);export{f as default};

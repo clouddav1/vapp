@@ -1,0 +1,1 @@
+import{_ as o,o as t,c,a as n,b as e}from"./index-4a76a008.js";const r={},s=e("br",null,null,-1),l=e("br",null,null,-1);function a(_,u){return t(),c("h1",null,[s,l,n(" Welcome to Gr App")])}const f=o(r,[["render",a]]);export{f as default};
